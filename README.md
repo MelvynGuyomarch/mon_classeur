@@ -1,2 +1,2 @@
 # mon_classeur
-Gérer mes cours 
+gerer mes cours 
